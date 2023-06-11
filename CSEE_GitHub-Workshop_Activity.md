@@ -20,7 +20,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 2.** Is a hot dog a sandwich? Justify your answer.
 
-*Answer:*
+*Answer:* Yes, as the function is to deliver to the stuff inside without getting your hands greasy, which a hotdog successfully does (if you aren't too generous with the relish)
 
 **Question 3.** What is your go-to karaoke anthem?
 
